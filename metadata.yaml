@@ -1,0 +1,25 @@
+_repo: Motor-Matt-on-the-Wing-or-Flying-for-Fame-and-Fortune_51127
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Matthews, Stanley R.
+    gutenberg_agent_id: '43601'
+    url: http://www.gutenberg.org/2009/agents/43601
+description: ''
+gutenberg_issued: '2016-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51127'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dime novels'
+- !lcsh 'Mechanics -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Airplanes -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Motor Matt on the Wing; or, Flying for Fame and Fortune
+url: http://www.gutenberg.org/ebooks/51127
